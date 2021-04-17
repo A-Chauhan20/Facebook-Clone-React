@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Facebook-Clone-React/static/css/main.49c1ba29.chunk.css",
+    "main.js": "/Facebook-Clone-React/static/js/main.12081c6b.chunk.js",
+    "main.js.map": "/Facebook-Clone-React/static/js/main.12081c6b.chunk.js.map",
+    "runtime-main.js": "/Facebook-Clone-React/static/js/runtime-main.76bce99a.js",
+    "runtime-main.js.map": "/Facebook-Clone-React/static/js/runtime-main.76bce99a.js.map",
+    "static/js/2.71026836.chunk.js": "/Facebook-Clone-React/static/js/2.71026836.chunk.js",
+    "static/js/2.71026836.chunk.js.map": "/Facebook-Clone-React/static/js/2.71026836.chunk.js.map",
+    "index.html": "/Facebook-Clone-React/index.html",
+    "static/css/main.49c1ba29.chunk.css.map": "/Facebook-Clone-React/static/css/main.49c1ba29.chunk.css.map",
+    "static/js/2.71026836.chunk.js.LICENSE.txt": "/Facebook-Clone-React/static/js/2.71026836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76bce99a.js",
+    "static/js/2.71026836.chunk.js",
+    "static/css/main.49c1ba29.chunk.css",
+    "static/js/main.12081c6b.chunk.js"
+  ]
+}
